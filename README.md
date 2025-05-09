@@ -62,6 +62,3 @@ This will generate optimized web files in the `build/web` directory, which can b
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Screenshots
-
-[Add screenshots here]
